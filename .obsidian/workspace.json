@@ -16,14 +16,19 @@
             }
           },
           {
-            "id": "efb1cc70e77f7e52",
+            "id": "2b58a257060048da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Enum-классы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "библи",
+                "query": "wsgi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enum-классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Enum-классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Enum-классы.md"
+              }
             }
           },
           {
@@ -149,17 +157,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7f2f14b7e2a83187",
+  "active": "2b58a257060048da",
   "lastOpenFiles": [
+    "Nginx.md",
+    "include.md",
+    "Конфигурационный файл.md",
+    "Основные команды управления.md",
+    "Руководство по настройке Nginx.md",
     "Библиотеки Kotlin Android.md",
     "Набор джентельмена.md",
     "Глобальный обработчик ошибок.md",
-    "Nginx.md",
-    "Конфигурационный файл.md",
-    "Руководство по настройке Nginx.md",
     "Ошибки Nginx.md",
-    "Основные команды управления.md",
-    "include.md",
     "Установка Nginx.md"
   ]
 }
