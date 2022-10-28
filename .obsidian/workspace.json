@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f2f14b7e2a83187",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2b58a257060048da",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,6 +150,8 @@
   },
   "active": "2b58a257060048da",
   "lastOpenFiles": [
+    "Котлин.md",
+    "Enum-классы.md",
     "Nginx.md",
     "include.md",
     "Конфигурационный файл.md",
@@ -166,8 +159,6 @@
     "Руководство по настройке Nginx.md",
     "Библиотеки Kotlin Android.md",
     "Набор джентельмена.md",
-    "Глобальный обработчик ошибок.md",
-    "Ошибки Nginx.md",
-    "Установка Nginx.md"
+    "Глобальный обработчик ошибок.md"
   ]
 }
