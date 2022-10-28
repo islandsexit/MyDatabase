@@ -18,6 +18,10 @@ enum class Downloading{
 Классы перечислений могут иметь конструктор 
 ```kotlin
 enum class color Day(val value:Int){
-	MONDAY(1), TUESDAY(2), WEDNESDAY(3)
+	MONDAY(1), TUESDAY(2), WEDNESDAY(3); //точка с запятой, так нужно делать, чтоб компилятор понл, что дальше идут уже методы
+	
+	fun getDuration(day:Day){
+		return value-day.value //value, без this т.к и так понятно
+	}
 }
 ```
