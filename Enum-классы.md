@@ -46,4 +46,27 @@ enum class State{
 
 ---
 
-[[Наследование в Kotlin|Наследование]] 
+#### [[Наследование в Kotlin|Рeализация интерфейсов в классах enum]]
+
+Enum-класс может реализовыватьь интерфейс, но не наследоваться от класса.
+Чтобы реализовать интерфейс нужно реализовать его либо для всех элементов enum, либо один на всех.
+```kotlin
+interface Do{
+	fun doNow()
+	fun doLater()
+}
+
+enum class EUMM:Do{
+	FIRST{
+		override fun doNow() = /* === */
+	},
+	SECOND{
+		override fun doNow() = /* === */
+	};
+	
+	override fun doLater() = /* === */
+}
+```
+
+
+
