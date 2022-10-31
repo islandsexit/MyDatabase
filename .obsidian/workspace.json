@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f21e43972eaef444",
+        "id": "ac582dc88f4539ed",
         "type": "tabs",
         "children": [
           {
-            "id": "2b58a257060048da",
+            "id": "fa14ae82a6f7c9f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsgi",
+                "query": "Анони",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,10 +149,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2b58a257060048da",
+  "active": "e0c03d6f26111843",
   "lastOpenFiles": [
-    "Основы классов в Kotlin.md",
     "Enum-классы.md",
+    "Основы классов в Kotlin.md",
     "Котлин.md",
     "Nginx.md",
     "include.md",

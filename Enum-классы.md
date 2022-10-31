@@ -18,10 +18,32 @@ enum class Downloading{
 Классы перечислений могут иметь конструктор 
 ```kotlin
 enum class color Day(val value:Int){
-	MONDAY(1), TUESDAY(2), WEDNESDAY(3); //точка с запятой, так нужно делать, чтоб компилятор понл, что дальше идут уже методы
+	MONDAY(1), TUESDAY(2), WEDNESDAY(3); //точка с запятой, так нужно делать, чтоб компилятор понл, что дальше идут уже другие члены
 	
 	fun getDuration(day:Day){
 		return value-day.value //value, без this т.к и так понятно
 	}
 }
 ```
+
+---
+
+### Анонимные классы 
+
+Enum-константы могут объявлять свои аннимные класысы, также  могут перегружать методы базового класса
+```kotlin
+enum class State{
+	WAITING{
+		override fun signal() = TALKING
+	},
+	TALKING{
+		override fun signal() = WAITING
+	};
+
+	abstract fun signal():State
+}
+```
+
+---
+
+[Наследование](Наследование в )
