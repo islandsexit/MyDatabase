@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "c78be6d370b0a871",
+            "id": "5f3aa4bc96e3b7a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наследование в Kotlin.md",
+                "file": "Ключевое слово object.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "08724ce5b51090a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анонимные объекты.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enum-классы.md",
+                "file": "Анонимные объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enum-классы.md",
+                "file": "Анонимные объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enum-классы.md"
+                "file": "Анонимные объекты.md"
               }
             }
           },
@@ -159,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fa14ae82a6f7c9f9",
+  "active": "08724ce5b51090a8",
   "lastOpenFiles": [
+    "Анонимные объекты.md",
+    "Enum-классы.md",
+    "Ключевое слово object.md",
     "Наследование в Kotlin.md",
     "Основы.md",
-    "Enum-классы.md",
     "Наследование.md",
     "Основы классов в Kotlin.md",
     "Котлин.md",
     "Nginx.md",
-    "include.md",
-    "Конфигурационный файл.md",
-    "Основные команды управления.md"
+    "include.md"
   ]
 }
