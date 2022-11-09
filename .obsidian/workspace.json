@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деплой Django проекта.md",
+                "file": "gunicorn.service.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деплой Django проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деплой Django проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Деплой Django проекта.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,17 +197,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0dfd083177058a3d",
+  "active": "08724ce5b51090a8",
   "lastOpenFiles": [
-    "Virtualenv.md",
     "Деплой Django проекта.md",
+    "Как узнать какой процесс слушает порт в LInux.md",
+    "gunicorn.service.md",
+    "gunicorn.socket.md",
+    "Django.md",
+    "Virtualenv.md",
     "Шпаргалка по системным местоположениям.md",
     "Как завершить процесс Linux.md",
-    "Как узнать какой процесс слушает порт в LInux.md",
     "Установка всех компонентов.md",
-    "Флаг -y.md",
-    "Curl.md",
-    "python3-dev.md",
-    "libpq-dev.md"
+    "Флаг -y.md"
   ]
 }
