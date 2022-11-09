@@ -23,18 +23,6 @@
             "id": "5f3aa4bc96e3b7a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Наследование в Kotlin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08724ce5b51090a8",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Деплой Django проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Деплой Django проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Деплой Django проекта.md"
+              }
             }
           },
           {
@@ -197,17 +189,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08724ce5b51090a8",
+  "active": "0dfd083177058a3d",
   "lastOpenFiles": [
-    "Деплой Django проекта.md",
     "Как узнать какой процесс слушает порт в LInux.md",
+    "Наследование в Kotlin.md",
+    "Лог Ошибок Nginx.md",
+    "Деплой Django проекта.md",
     "gunicorn.service.md",
     "gunicorn.socket.md",
     "Django.md",
     "Virtualenv.md",
     "Шпаргалка по системным местоположениям.md",
-    "Как завершить процесс Linux.md",
-    "Установка всех компонентов.md",
-    "Флаг -y.md"
+    "Как завершить процесс Linux.md"
   ]
 }

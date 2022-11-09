@@ -83,7 +83,58 @@ chmod 777 ./<Директория Джанго проекта>
 ``` bash 
 systemctl daemon-reload
 ```
-5. 
+5. Теперь запускаем [[Gunicorn]]
+```bash
+systemctl start gunicorn.socket
+systemctl enable gunicorn.socket
+```
+6. И проверяем статус Gunicorn
+```bash
+systemctl status gunicorn.socket
+```
+
+
+### Конфигурация [[Nginx]] 
+Первым делом редактируем файл конфигурации
+`/etc/nginx/sites-avaliable/default`
+```nginx
+server{     
+    listen 80; //1                                                                                                              
+    location /{  //2                                                                                                                  
+        include proxy_params;                                                                                                   
+        proxy_pass http://unix:/run/gunicorn.sock;                                                                              
+        proxy_connect_timeout 300s;                                                                                             
+        proxy_read_timeout 300s;                                                                                        
+        }                                                                                                                       
+    location /static{  //3                                                                                                             
+        root /home/vig/django/IsFaceCV/face/upload_app/;                                                                        
+        try_files $uri = 404;                                                                                           
+        }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       }
+```
+
+1. Порт прослушки
+2. Первый прокси-сервер, тобишь сервер gunicorn 
+3. Статические файлы Джанго не умеет раздавать правильно, поэтому мы прописываем путь к файлам в Nginx
+
+Вторым делом произведем настройку файла конфигурации Nginx
+`/etc/nginx/nginx.conf`
+Тут мы настройку произведем чисто поменяв пользователя на своего
+```nginx
+user <Имя вашего пользователя>;      ///////////////////////тут                                                                                                    worker_processes auto;                                                                                                  pid /run/nginx.pid;
+include /etc/nginx/modules-enabled/.conf
+events {                                                                                                                        
+        worker_connections 768;                                                                                                 
+        # multi_accept on;
+}                                                                                                                                                                                                                                               http {                                                                                                                                                                                                                                                  ##                                                                                                                      # Basic Settings
+        ##                                                                                                                                                                                                                                              
+        sendfile on;
+        tcp_nopush on;
+        types_hash_max_size 2048;
+        # server_tokens off;                                                                                                                                                                                                                            # server_names_hash_bucket_size 64;
+        # server_name_in_redirect off;
+                                                                                                include /etc/nginx/mime.types;
+        default_type application/octet-stream;                                                                                                                                                                                                          ##                                                                                                                      # SSL Settings  
+```
 
 
 
