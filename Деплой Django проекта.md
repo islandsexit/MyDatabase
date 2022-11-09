@@ -6,3 +6,9 @@
 systemctl start nginx
 systemctls enable nginx
 ```
+3. Обновляем [[Pip]]
+```bash 
+pip3 install --upgrade pip
+```
+4. Устанавливаем [[Virtualenv]]
+5. 

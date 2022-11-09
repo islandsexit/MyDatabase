@@ -69,31 +69,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как завершить процесс Linux.md",
+                "file": "Деплой Django проекта.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "733c500d26b644a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Установка всех компонентов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8da970b91f61b2c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           }
@@ -127,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nginx djan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -144,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как завершить процесс Linux.md",
+                "file": "Деплой Django проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как завершить процесс Linux.md",
+                "file": "Деплой Django проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как завершить процесс Linux.md"
+                "file": "Деплой Django проекта.md"
               }
             }
           },
@@ -224,15 +203,15 @@
   },
   "active": "0dfd083177058a3d",
   "lastOpenFiles": [
-    "Как узнать какой процесс слушает порт в LInux.md",
+    "Virtualenv.md",
     "Деплой Django проекта.md",
+    "Шпаргалка по системным местоположениям.md",
+    "Как завершить процесс Linux.md",
+    "Как узнать какой процесс слушает порт в LInux.md",
     "Установка всех компонентов.md",
     "Флаг -y.md",
     "Curl.md",
     "python3-dev.md",
-    "libpq-dev.md",
-    "Наследование в Kotlin.md",
-    "Анонимные объекты.md",
-    "Enum-классы.md"
+    "libpq-dev.md"
   ]
 }
