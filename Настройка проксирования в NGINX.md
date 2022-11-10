@@ -14,4 +14,4 @@ location /checkin {
 1. `include proxy_params` - это переиспользование стадратной части конфига проксирования [[proxy_params]]
 
 2. `proxy_pass` - это то, куда идет проксирование
-3. 
+3. `proxy redirect` - 
