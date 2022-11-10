@@ -23,9 +23,17 @@
             "id": "6679f5ad624d9b6b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "adbd7ab987cc6413",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Страница 404 Django.md",
+                "file": "proxy_params.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx djan",
+                "query": "nginx сигнал",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Страница 404 Django.md",
+                "file": "proxy_params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Страница 404 Django.md",
+                "file": "proxy_params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Страница 404 Django.md"
+                "file": "proxy_params.md"
               }
             }
           },
@@ -200,17 +208,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6679f5ad624d9b6b",
+  "active": "adbd7ab987cc6413",
   "lastOpenFiles": [
+    "Настройка проксирования в NGINX.md",
+    "прокси-сервер.md",
+    "Основные команды управления.md",
+    "Руководство по настройке Nginx.md",
+    "Страница 404 Django.md",
     "Enum-классы.md",
     "Деплой Django проекта.md",
     "Как узнать какой процесс слушает порт в LInux.md",
     "Наследование в Kotlin.md",
-    "Лог Ошибок Nginx.md",
-    "gunicorn.service.md",
-    "gunicorn.socket.md",
-    "Django.md",
-    "Virtualenv.md",
-    "Шпаргалка по системным местоположениям.md"
+    "Лог Ошибок Nginx.md"
   ]
 }
