@@ -13,3 +13,4 @@ location /checkin {
 
 1. `include proxy_params` - это переиспользование стадратной части конфига проксирования [[proxy_params]]
 
+2. 

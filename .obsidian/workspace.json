@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxy_params.md",
+                "file": "Настройка проксирования в NGINX.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proxy_params.md",
+                "file": "Настройка проксирования в NGINX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proxy_params.md",
+                "file": "Настройка проксирования в NGINX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proxy_params.md"
+                "file": "Настройка проксирования в NGINX.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "adbd7ab987cc6413",
   "lastOpenFiles": [
+    "proxy_params.md",
     "Настройка проксирования в NGINX.md",
     "прокси-сервер.md",
     "Основные команды управления.md",
@@ -218,7 +219,6 @@
     "Enum-классы.md",
     "Деплой Django проекта.md",
     "Как узнать какой процесс слушает порт в LInux.md",
-    "Наследование в Kotlin.md",
-    "Лог Ошибок Nginx.md"
+    "Наследование в Kotlin.md"
   ]
 }
