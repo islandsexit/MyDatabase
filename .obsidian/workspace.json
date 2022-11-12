@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройка проксирования в NGINX.md",
+                "file": "Котлин.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx сигнал",
+                "query": "Котлин",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Настройка проксирования в NGINX.md",
+                "file": "Котлин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настройка проксирования в NGINX.md",
+                "file": "Котлин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настройка проксирования в NGINX.md"
+                "file": "Котлин.md"
               }
             }
           },
@@ -210,15 +211,15 @@
   },
   "active": "adbd7ab987cc6413",
   "lastOpenFiles": [
-    "proxy_params.md",
+    "Companion.md",
     "Настройка проксирования в NGINX.md",
+    "proxy_params.md",
     "прокси-сервер.md",
     "Основные команды управления.md",
     "Руководство по настройке Nginx.md",
     "Страница 404 Django.md",
     "Enum-классы.md",
     "Деплой Django проекта.md",
-    "Как узнать какой процесс слушает порт в LInux.md",
-    "Наследование в Kotlin.md"
+    "Как узнать какой процесс слушает порт в LInux.md"
   ]
 }
