@@ -158,7 +158,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -211,15 +211,15 @@
   },
   "active": "adbd7ab987cc6413",
   "lastOpenFiles": [
+    "Выведение.md",
+    "Котлин.md",
+    "Выведение типов (type inference).md",
+    "Статическая.md",
     "Companion.md",
     "Настройка проксирования в NGINX.md",
     "proxy_params.md",
     "прокси-сервер.md",
     "Основные команды управления.md",
-    "Руководство по настройке Nginx.md",
-    "Страница 404 Django.md",
-    "Enum-классы.md",
-    "Деплой Django проекта.md",
-    "Как узнать какой процесс слушает порт в LInux.md"
+    "Руководство по настройке Nginx.md"
   ]
 }
