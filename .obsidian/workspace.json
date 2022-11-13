@@ -11,80 +11,11 @@
             "id": "fa14ae82a6f7c9f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enum-классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6679f5ad624d9b6b",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "adbd7ab987cc6413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Котлин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f3aa4bc96e3b7a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e149de5a089fa942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gunicorn.service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a8bb3bbfe68a6c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как узнать какой процесс слушает порт в LInux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfd083177058a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Деплой Django проекта.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Котлин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Котлин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Котлин.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "adbd7ab987cc6413",
+  "active": "fa14ae82a6f7c9f9",
   "lastOpenFiles": [
-    "Выведение.md",
     "Котлин.md",
+    "conflict-files-obsidian-git.md",
+    "Flutter.md",
+    "Выведение.md",
     "Выведение типов (type inference).md",
     "Статическая.md",
     "Companion.md",
     "Настройка проксирования в NGINX.md",
     "proxy_params.md",
-    "прокси-сервер.md",
-    "Основные команды управления.md",
-    "Руководство по настройке Nginx.md"
+    "прокси-сервер.md"
   ]
 }
