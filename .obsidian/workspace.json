@@ -11,60 +11,15 @@
             "id": "fa14ae82a6f7c9f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f69d30aff447d5b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8bf4c53a77c14d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "65dfb37df3f9e08d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f38910c02378998",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "34b6a0315480a1fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2112b949639b8469",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "runApp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "runApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "runApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "runApp.md"
+              }
             }
           },
           {
@@ -185,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2112b949639b8469",
+  "active": "fa14ae82a6f7c9f9",
   "lastOpenFiles": [
+    "MaterialApp.md",
+    "runApp.md",
+    "Flutter.md",
+    "Функция main.md",
     "conflict-files-obsidian-git.md",
     "Котлин.md",
-    "Flutter.md",
     "Выведение.md",
     "Выведение типов (type inference).md",
     "Статическая.md",
-    "Companion.md",
-    "Настройка проксирования в NGINX.md",
-    "proxy_params.md",
-    "прокси-сервер.md"
+    "Companion.md"
   ]
 }
