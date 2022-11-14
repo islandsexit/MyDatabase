@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f265446187818812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StatelessWidget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd2fcf4154a56e22",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter.md",
+                "file": "StatelessWidget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter.md",
+                "file": "StatelessWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter.md"
+                "file": "StatelessWidget.md"
               }
             }
           },
@@ -156,10 +169,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa14ae82a6f7c9f9",
+  "active": "f265446187818812",
   "lastOpenFiles": [
-    "class (Flutter).md",
     "Flutter.md",
+    "class (Flutter).md",
     "Простой HelloWorld.md",
     "runApp.md",
     "MaterialApp.md",
