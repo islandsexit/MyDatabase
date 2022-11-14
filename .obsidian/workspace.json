@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StatelessWidget.md",
+                "file": "Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StatelessWidget.md",
+                "file": "Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StatelessWidget.md"
+                "file": "Flutter.md"
               }
             }
           },
@@ -169,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f265446187818812",
+  "active": "fa14ae82a6f7c9f9",
   "lastOpenFiles": [
+    "runApp.md",
     "Flutter.md",
+    "StatelessWidget.md",
     "class (Flutter).md",
     "Простой HelloWorld.md",
-    "runApp.md",
     "MaterialApp.md",
     "Функция main.md",
     "conflict-files-obsidian-git.md",
     "Котлин.md",
-    "Выведение.md",
-    "Выведение типов (type inference).md"
+    "Выведение.md"
   ]
 }
