@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура программы Dart.md",
+                "file": "Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура программы Dart.md",
+                "file": "Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура программы Dart.md"
+                "file": "Dart.md"
               }
             }
           },
@@ -181,8 +180,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95594295618169e6",
+  "active": "fa14ae82a6f7c9f9",
   "lastOpenFiles": [
+    "Структура программы Dart.md",
     "Dart.md",
     "Flutter.md",
     "runApp.md",
@@ -191,7 +191,6 @@
     "Простой HelloWorld.md",
     "MaterialApp.md",
     "Функция main.md",
-    "conflict-files-obsidian-git.md",
-    "Котлин.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
