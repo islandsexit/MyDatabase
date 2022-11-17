@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Обработка исключений в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Обработка исключений в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Обработка исключений в Dart.md"
+              }
             }
           },
           {
@@ -221,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "584815d989c2a8c3",
+  "active": "109fbefe78c70ce6",
   "lastOpenFiles": [
+    "Как бросить исключение в Dart.md",
     "Обработка исключений в Dart.md",
     "Dart.md",
+    "Корутины.md",
     "Библиотеки и их видимость в Dart.md",
     "Иморт, только не весь в Dart.md",
     "Ключевое слово as в Dart.md",
     "Как подключить библиотеку в Dart.md",
     "Ассинхронность в Dart.md",
-    "Flutter.md",
-    "Корутины.md",
-    "Ассинхронное программирование.md"
+    "Flutter.md"
   ]
 }
