@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "109fbefe78c70ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обработка исключений в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "51b348060020f244",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и их видимость в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и их видимость в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Библиотеки и их видимость в Dart.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51b348060020f244",
+  "active": "584815d989c2a8c3",
   "lastOpenFiles": [
-    "Как подключить библиотеку в Dart.md",
-    "Библиотеки и их видимость в Dart.md",
+    "Обработка исключений в Dart.md",
     "Dart.md",
+    "Библиотеки и их видимость в Dart.md",
+    "Иморт, только не весь в Dart.md",
+    "Ключевое слово as в Dart.md",
+    "Как подключить библиотеку в Dart.md",
     "Ассинхронность в Dart.md",
     "Flutter.md",
     "Корутины.md",
-    "Ассинхронное программирование.md",
-    "Объявление ассинхронной функции в Dart.md",
-    "Структура программы Dart.md",
-    "runApp.md"
+    "Ассинхронное программирование.md"
   ]
 }
