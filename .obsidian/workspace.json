@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ассинхронность в Dart.md",
+                "file": "Объявление ассинхронной функции в Dart.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ассинхронность в Dart.md",
+                "file": "Объявление ассинхронной функции в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ассинхронность в Dart.md",
+                "file": "Объявление ассинхронной функции в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ассинхронность в Dart.md"
+                "file": "Объявление ассинхронной функции в Dart.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "76a8851d632fb313",
   "lastOpenFiles": [
+    "Ассинхронность в Dart.md",
+    "Объявление ассинхронной функции в Dart.md",
     "Flutter.md",
     "Dart.md",
     "Структура программы Dart.md",
@@ -202,8 +204,6 @@
     "StatelessWidget.md",
     "class (Flutter).md",
     "Простой HelloWorld.md",
-    "MaterialApp.md",
-    "Функция main.md",
-    "conflict-files-obsidian-git.md"
+    "MaterialApp.md"
   ]
 }
