@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Объявление ассинхронной функции в Dart.md",
+                "file": "Ассинхронность в Dart.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Объявление ассинхронной функции в Dart.md",
+                "file": "Ассинхронность в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Объявление ассинхронной функции в Dart.md",
+                "file": "Ассинхронность в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Объявление ассинхронной функции в Dart.md"
+                "file": "Ассинхронность в Dart.md"
               }
             }
           },
@@ -195,11 +195,11 @@
   },
   "active": "76a8851d632fb313",
   "lastOpenFiles": [
-    "Ассинхронность в Dart.md",
     "Объявление ассинхронной функции в Dart.md",
+    "Структура программы Dart.md",
+    "Ассинхронность в Dart.md",
     "Flutter.md",
     "Dart.md",
-    "Структура программы Dart.md",
     "runApp.md",
     "StatelessWidget.md",
     "class (Flutter).md",

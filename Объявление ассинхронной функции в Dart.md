@@ -12,3 +12,8 @@ void invokeSomeLongOperation() async{
 }
 ```
 
+---
+## Примечание
+
+Существует также [[Future API]], который позволяет делать тоже самое, но без использовния async/await. 
+
