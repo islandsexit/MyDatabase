@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0ad1df097022ed95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layouts компоновка в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "584815d989c2a8c3",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дженерики в Dart.md",
+                "file": "Layouts компоновка в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дженерики в Dart.md",
+                "file": "Layouts компоновка в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дженерики в Dart.md"
+                "file": "Layouts компоновка в Dart.md"
               }
             }
           },
@@ -298,8 +310,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64d51043ce260c15",
+  "active": "0ad1df097022ed95",
   "lastOpenFiles": [
+    "Flutter.md",
+    "Дженерики в Dart.md",
     "Dart.md",
     "Мета-данные или аннотации в Dart.md",
     "Генераторы в Dart.md",
@@ -307,8 +321,6 @@
     "Синхронный генератор в Dart.md",
     "Обработка исключений в Dart.md",
     "Как бросить исключение в Dart.md",
-    "Корутины.md",
-    "Библиотеки и их видимость в Dart.md",
-    "Иморт, только не весь в Dart.md"
+    "Корутины.md"
   ]
 }
