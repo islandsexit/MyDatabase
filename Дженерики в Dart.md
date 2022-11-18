@@ -9,7 +9,8 @@ var cock = List<Balls>;
 
 Но сам по себе дженерик - это вот такая залупа 
 ```dart
-abstarct class Thing<T>{
-	
+abstarct class Thing<V>{
+	T getByName(String name);
+	void setByName(String name, V value);
 }
 ```
