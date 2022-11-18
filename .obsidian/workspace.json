@@ -32,19 +32,39 @@
             }
           },
           {
+            "id": "672f4be28d355424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scaffold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "12be9e9cda3001e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Деплой Django проекта.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "584815d989c2a8c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dart.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -221,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Котлин",
+                "query": "фб",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,6 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scaffold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,6 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scaffold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +318,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scaffold.md"
+              }
             }
           },
           {
@@ -315,17 +339,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12be9e9cda3001e6",
+  "active": "672f4be28d355424",
   "lastOpenFiles": [
-    "Конструкторы классов.md",
-    "Абстрактный класс.md",
-    "Scaffold.md",
     "Layouts компоновка в Dart.md",
-    "Flutter.md",
-    "Дженерики в Dart.md",
     "Dart.md",
-    "Мета-данные или аннотации в Dart.md",
+    "Библиотеки и их видимость в Dart.md",
+    "C10K.md",
+    "Корутины.md",
+    "Синхронный генератор в Dart.md",
+    "Ассинхронный генератор в Dart.md",
     "Генераторы в Dart.md",
-    "Ассинхронный генератор в Dart.md"
+    "Мета-данные или аннотации в Dart.md",
+    "Дженерики в Dart.md"
   ]
 }
