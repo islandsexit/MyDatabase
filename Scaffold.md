@@ -4,4 +4,4 @@
 3. [[bottomNavigationBar в Dart]] - панель навигации снизу 
 4. [[backgroundColor в Dart]] - просто цвет фона
 
-Но Scaffold нужен 
+Но Scaffold нужен дочерний виджет отображения, крч, как с [[HTML]], нужен body
