@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "353da2f7bea43a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Генераторы в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "109fbefe78c70ce6",
             "type": "leaf",
             "state": {
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обработка исключений в Dart.md",
+                "file": "Генераторы в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Обработка исключений в Dart.md",
+                "file": "Генераторы в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Обработка исключений в Dart.md"
+                "file": "Генераторы в Dart.md"
               }
             }
           },
@@ -225,11 +237,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "109fbefe78c70ce6",
+  "active": "353da2f7bea43a7c",
   "lastOpenFiles": [
-    "Как бросить исключение в Dart.md",
-    "Обработка исключений в Dart.md",
     "Dart.md",
+    "Обработка исключений в Dart.md",
+    "Как бросить исключение в Dart.md",
     "Корутины.md",
     "Библиотеки и их видимость в Dart.md",
     "Иморт, только не весь в Dart.md",
