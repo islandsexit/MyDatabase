@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "12be9e9cda3001e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "584815d989c2a8c3",
             "type": "leaf",
             "state": {
@@ -184,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,7 +259,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layouts компоновка в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +275,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layouts компоновка в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,9 +296,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Layouts компоновка в Dart.md"
-              }
+              "state": {}
             }
           },
           {
@@ -310,17 +315,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ad1df097022ed95",
+  "active": "12be9e9cda3001e6",
   "lastOpenFiles": [
+    "Конструкторы классов.md",
+    "Абстрактный класс.md",
+    "Scaffold.md",
+    "Layouts компоновка в Dart.md",
     "Flutter.md",
     "Дженерики в Dart.md",
     "Dart.md",
     "Мета-данные или аннотации в Dart.md",
     "Генераторы в Dart.md",
-    "Ассинхронный генератор в Dart.md",
-    "Синхронный генератор в Dart.md",
-    "Обработка исключений в Dart.md",
-    "Как бросить исключение в Dart.md",
-    "Корутины.md"
+    "Ассинхронный генератор в Dart.md"
   ]
 }
