@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "c62e024b3570410a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ассинхронный генератор в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02cfebff54630ff8",
             "type": "leaf",
             "state": {
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Синхронный генератор в Dart.md",
+                "file": "Ассинхронный генератор в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Синхронный генератор в Dart.md",
+                "file": "Ассинхронный генератор в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Синхронный генератор в Dart.md"
+                "file": "Ассинхронный генератор в Dart.md"
               }
             }
           },
@@ -261,7 +273,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02cfebff54630ff8",
+  "active": "c62e024b3570410a",
   "lastOpenFiles": [
     "Генераторы в Dart.md",
     "Синхронный генератор в Dart.md",
