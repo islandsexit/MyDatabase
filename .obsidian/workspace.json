@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "02cfebff54630ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Синхронный генератор в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9bb0ed5e500f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Синхронный генератор в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "109fbefe78c70ce6",
             "type": "leaf",
             "state": {
@@ -112,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Генераторы в Dart.md",
+                "file": "Синхронный генератор в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Генераторы в Dart.md",
+                "file": "Синхронный генератор в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генераторы в Dart.md"
+                "file": "Синхронный генератор в Dart.md"
               }
             }
           },
@@ -237,8 +261,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "353da2f7bea43a7c",
+  "active": "02cfebff54630ff8",
   "lastOpenFiles": [
+    "Генераторы в Dart.md",
+    "Синхронный генератор в Dart.md",
     "Dart.md",
     "Обработка исключений в Dart.md",
     "Как бросить исключение в Dart.md",
@@ -246,8 +272,6 @@
     "Библиотеки и их видимость в Dart.md",
     "Иморт, только не весь в Dart.md",
     "Ключевое слово as в Dart.md",
-    "Как подключить библиотеку в Dart.md",
-    "Ассинхронность в Dart.md",
-    "Flutter.md"
+    "Как подключить библиотеку в Dart.md"
   ]
 }
