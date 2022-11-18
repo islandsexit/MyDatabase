@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "705fd096f47b5998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мета-данные или аннотации в Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "353da2f7bea43a7c",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart.md",
+                "file": "Мета-данные или аннотации в Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart.md",
+                "file": "Мета-данные или аннотации в Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart.md"
+                "file": "Мета-данные или аннотации в Dart.md"
               }
             }
           },
@@ -266,13 +278,15 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "76a8851d632fb313",
+  "active": "705fd096f47b5998",
   "lastOpenFiles": [
     "Dart.md",
     "Генераторы в Dart.md",
