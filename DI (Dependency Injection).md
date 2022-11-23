@@ -25,3 +25,4 @@ for(for tweet in timeline) {
 Для упрощения всего этого был придуман [[Dagger2]]
 
 
+
