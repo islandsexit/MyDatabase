@@ -40,8 +40,21 @@ class MainActivity : AppCompatActivity{
 ```kotlin
 class MainActivity : AppCompatActivity{
 
+	@Inject
+	private lateinit var nameServices : NameServices
+	@Inject
+	private lateinit var aliasServices : AliasServices
+	@Inject
+	private lateinit var userRepository : UserRepository
 
+	override fun onCreate(savedInstance:Bundle){
+		super.onCreate(savedInstance)
+		setContentView(R.layout.activity_main)
+		AndroidInjector.inject(this)
+	}
 
 }
-
 ```
+
+---
+## P.s Не берусь за правильное написание, это чисто пример для понимания
